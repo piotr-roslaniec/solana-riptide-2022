@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "programs/*"
+]
+
+[patch.crates-io]
+getrandom = { path = "../getrandom" }
