@@ -2,6 +2,8 @@
 
 Verify ZKP in Solana programs
 
+See slides [here](https://docs.google.com/presentation/d/1_Vr_bXgWm_6UVt6mZWt_SSQ5xnn3TPBlYWegliit8Rk/edit?usp=sharing).
+
 ## Overview
 
 This repo contains the following sources:
